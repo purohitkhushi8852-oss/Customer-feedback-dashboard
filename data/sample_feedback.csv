@@ -1,0 +1,301 @@
+date,customer_name,region,product,rating,feedback_text
+2025-09-13 16:15:57.071728,Customer_103,Central,Product A,5,Delivery was late and packaging was damaged.
+2025-09-16 16:15:57.071728,Customer_232,North,Product B,4,Very satisfied with the quality.
+2025-09-17 16:15:57.071728,Customer_299,West,Product C,4,Customer service was rude and unhelpful.
+2025-09-17 16:15:57.071728,Customer_271,East,Product A,4,Very disappointed with the quality.
+2025-09-17 16:15:57.071728,Customer_169,Central,Product B,1,"Not bad, could be better."
+2025-09-20 16:15:57.071728,Customer_137,Central,Product B,1,The support team was very helpful and kind.
+2025-09-21 16:15:57.071728,Customer_146,South,Product C,2,Customer service was rude and unhelpful.
+2025-09-22 16:15:57.071728,Customer_116,Central,Product C,2,Very disappointed with the quality.
+2025-09-23 16:15:57.071728,Customer_249,West,Product C,5,Excellent service and fast delivery.
+2025-09-24 16:15:57.071728,Customer_55,Central,Product C,4,Excellent service and fast delivery.
+2025-09-28 16:15:57.071728,Customer_149,South,Product A,1,"Not bad, could be better."
+2025-09-30 16:15:57.071728,Customer_278,Central,Product C,2,"Amazing experience, will buy again."
+2025-09-30 16:15:57.071728,Customer_35,Central,Product C,5,The support team was very helpful and kind.
+2025-10-01 16:15:57.071728,Customer_44,Central,Product D,1,Delivery was late and packaging was damaged.
+2025-10-03 16:15:57.071728,Customer_68,North,Product D,5,"I regret buying this, waste of money."
+2025-10-04 16:15:57.071728,Customer_216,Central,Product A,5,"Not bad, could be better."
+2025-10-04 16:15:57.071728,Customer_126,Central,Product C,1,Very disappointed with the quality.
+2025-10-05 16:15:57.071728,Customer_279,North,Product C,1,"The product is okay, nothing special."
+2025-10-06 16:15:57.071728,Customer_245,North,Product A,3,"I love this product, it works great!"
+2025-10-06 16:15:57.071728,Customer_6,South,Product B,3,"Delivery was on time, product is fine."
+2025-10-07 16:15:57.071728,Customer_195,East,Product B,1,"Not bad, could be better."
+2025-10-07 16:15:57.071728,Customer_0,South,Product C,1,Delivery was late and packaging was damaged.
+2025-10-08 16:15:57.071728,Customer_132,Central,Product D,4,"The product is okay, nothing special."
+2025-10-08 16:15:57.071728,Customer_171,Central,Product D,2,The support team was very helpful and kind.
+2025-10-08 16:15:57.071728,Customer_32,South,Product B,2,"I regret buying this, waste of money."
+2025-10-09 16:15:57.071728,Customer_242,North,Product D,5,"I regret buying this, waste of money."
+2025-10-09 16:15:57.071728,Customer_9,North,Product D,1,"I regret buying this, waste of money."
+2025-10-09 16:15:57.071728,Customer_217,North,Product A,3,"It works as described, average experience."
+2025-10-10 16:15:57.071728,Customer_86,North,Product B,4,Delivery was late and packaging was damaged.
+2025-10-12 16:15:57.071728,Customer_170,West,Product C,4,Delivery was late and packaging was damaged.
+2025-10-12 16:15:57.071728,Customer_257,Central,Product A,5,"It works as described, average experience."
+2025-10-15 16:15:57.071728,Customer_119,East,Product C,1,"The product is okay, nothing special."
+2025-10-16 16:15:57.071728,Customer_197,South,Product B,4,Very disappointed with the quality.
+2025-10-18 16:15:57.071728,Customer_156,North,Product C,3,The support team was very helpful and kind.
+2025-10-19 16:15:57.071728,Customer_17,West,Product B,4,"The product broke after one use, terrible."
+2025-10-19 16:15:57.071728,Customer_73,South,Product A,3,Very disappointed with the quality.
+2025-10-19 16:15:57.071728,Customer_220,South,Product A,1,"I regret buying this, waste of money."
+2025-10-22 16:15:57.071728,Customer_117,North,Product B,3,"Not bad, could be better."
+2025-10-22 16:15:57.071728,Customer_99,South,Product A,3,"I love this product, it works great!"
+2025-10-23 16:15:57.071728,Customer_240,West,Product B,5,"The product broke after one use, terrible."
+2025-10-24 16:15:57.071728,Customer_255,East,Product D,3,"I love this product, it works great!"
+2025-10-26 16:15:57.071728,Customer_272,South,Product A,2,"It works as described, average experience."
+2025-10-26 16:15:57.071728,Customer_181,Central,Product C,5,"Amazing experience, will buy again."
+2025-10-27 16:15:57.071728,Customer_57,Central,Product C,4,"Delivery was on time, product is fine."
+2025-10-29 16:15:57.071728,Customer_177,North,Product A,1,"The product broke after one use, terrible."
+2025-10-29 16:15:57.071728,Customer_82,Central,Product D,3,"The product is okay, nothing special."
+2025-10-29 16:15:57.071728,Customer_286,West,Product A,1,Very satisfied with the quality.
+2025-10-30 16:15:57.071728,Customer_40,West,Product C,4,"Delivery was on time, product is fine."
+2025-10-30 16:15:57.071728,Customer_186,South,Product A,5,"Delivery was on time, product is fine."
+2025-10-31 16:15:57.071728,Customer_167,East,Product B,4,"It works as described, average experience."
+2025-11-01 16:15:57.071728,Customer_261,North,Product D,3,The support team was very helpful and kind.
+2025-11-02 16:15:57.071728,Customer_258,West,Product C,2,"Amazing experience, will buy again."
+2025-11-03 16:15:57.071728,Customer_229,Central,Product A,4,Customer service was rude and unhelpful.
+2025-11-03 16:15:57.071728,Customer_250,Central,Product D,2,The support team was very helpful and kind.
+2025-11-04 16:15:57.071728,Customer_22,West,Product A,3,"I regret buying this, waste of money."
+2025-11-06 16:15:57.071728,Customer_252,Central,Product D,3,"I love this product, it works great!"
+2025-11-06 16:15:57.071728,Customer_71,West,Product C,3,Excellent service and fast delivery.
+2025-11-08 16:15:57.071728,Customer_51,North,Product C,2,"The product is okay, nothing special."
+2025-11-09 16:15:57.071728,Customer_101,West,Product C,4,"The product is okay, nothing special."
+2025-11-10 16:15:57.071728,Customer_223,Central,Product C,2,Very disappointed with the quality.
+2025-11-10 16:15:57.071728,Customer_8,South,Product D,2,"Amazing experience, will buy again."
+2025-11-14 16:15:57.071728,Customer_141,South,Product D,5,Excellent service and fast delivery.
+2025-11-18 16:15:57.071728,Customer_31,South,Product B,4,"The product broke after one use, terrible."
+2025-11-18 16:15:57.071728,Customer_77,West,Product A,3,"The product broke after one use, terrible."
+2025-11-20 16:15:57.071728,Customer_147,Central,Product B,4,Very disappointed with the quality.
+2025-11-21 16:15:57.071728,Customer_96,North,Product C,3,"Amazing experience, will buy again."
+2025-11-21 16:15:57.071728,Customer_188,West,Product C,4,Delivery was late and packaging was damaged.
+2025-11-23 16:15:57.071728,Customer_118,South,Product A,1,"It works as described, average experience."
+2025-11-28 16:15:57.071728,Customer_210,Central,Product A,4,"I love this product, it works great!"
+2025-11-29 16:15:57.071728,Customer_208,South,Product B,5,"I love this product, it works great!"
+2025-11-29 16:15:57.071728,Customer_205,East,Product D,1,Very satisfied with the quality.
+2025-11-30 16:15:57.071728,Customer_291,Central,Product C,2,"It works as described, average experience."
+2025-12-01 16:15:57.071728,Customer_215,North,Product D,3,"The product broke after one use, terrible."
+2025-12-02 16:15:57.071728,Customer_142,North,Product C,3,Excellent service and fast delivery.
+2025-12-02 16:15:57.071728,Customer_280,North,Product A,4,Very satisfied with the quality.
+2025-12-03 16:15:57.071728,Customer_110,North,Product C,2,"Delivery was on time, product is fine."
+2025-12-03 16:15:57.071728,Customer_38,South,Product D,3,The support team was very helpful and kind.
+2025-12-04 16:15:57.071728,Customer_151,Central,Product A,2,"The product is okay, nothing special."
+2025-12-05 16:15:57.071728,Customer_298,West,Product A,5,"It works as described, average experience."
+2025-12-06 16:15:57.071728,Customer_95,Central,Product B,4,"Delivery was on time, product is fine."
+2025-12-08 16:15:57.071728,Customer_270,Central,Product B,4,Delivery was late and packaging was damaged.
+2025-12-08 16:15:57.071728,Customer_153,North,Product D,5,Delivery was late and packaging was damaged.
+2025-12-09 16:15:57.071728,Customer_262,East,Product A,5,"I love this product, it works great!"
+2025-12-10 16:15:57.071728,Customer_189,West,Product A,1,Delivery was late and packaging was damaged.
+2025-12-11 16:15:57.071728,Customer_135,North,Product C,4,"I regret buying this, waste of money."
+2025-12-11 16:15:57.071728,Customer_225,South,Product A,5,Customer service was rude and unhelpful.
+2025-12-12 16:15:57.071728,Customer_238,East,Product A,4,The support team was very helpful and kind.
+2025-12-13 16:15:57.071728,Customer_87,Central,Product C,2,"Amazing experience, will buy again."
+2025-12-16 16:15:57.071728,Customer_166,North,Product C,5,The support team was very helpful and kind.
+2025-12-17 16:15:57.071728,Customer_65,East,Product C,3,"I love this product, it works great!"
+2025-12-18 16:15:57.071728,Customer_253,South,Product A,5,"Amazing experience, will buy again."
+2025-12-19 16:15:57.071728,Customer_293,Central,Product D,4,The support team was very helpful and kind.
+2025-12-19 16:15:57.071728,Customer_76,West,Product C,1,Very disappointed with the quality.
+2025-12-20 16:15:57.071728,Customer_168,North,Product A,2,"I regret buying this, waste of money."
+2025-12-21 16:15:57.071728,Customer_198,Central,Product B,1,"I love this product, it works great!"
+2025-12-22 16:15:57.071728,Customer_196,North,Product D,5,"Not bad, could be better."
+2025-12-24 16:15:57.071728,Customer_267,South,Product D,2,"The product is okay, nothing special."
+2025-12-24 16:15:57.071728,Customer_138,North,Product C,3,"The product broke after one use, terrible."
+2025-12-26 16:15:57.071728,Customer_43,East,Product B,3,"It works as described, average experience."
+2025-12-28 16:15:57.071728,Customer_193,West,Product D,2,"The product broke after one use, terrible."
+2025-12-29 16:15:57.071728,Customer_62,South,Product A,5,"It works as described, average experience."
+2025-12-29 16:15:57.071728,Customer_200,North,Product A,3,Customer service was rude and unhelpful.
+2025-12-29 16:15:57.071728,Customer_52,South,Product A,4,Excellent service and fast delivery.
+2025-12-31 16:15:57.071728,Customer_67,South,Product D,2,"The product is okay, nothing special."
+2025-12-31 16:15:57.071728,Customer_21,North,Product B,3,"Delivery was on time, product is fine."
+2026-01-03 16:15:57.071728,Customer_187,East,Product C,5,The support team was very helpful and kind.
+2026-01-05 16:15:57.071728,Customer_93,East,Product D,3,"I love this product, it works great!"
+2026-01-09 16:15:57.071728,Customer_26,South,Product B,3,Excellent service and fast delivery.
+2026-01-10 16:15:57.071728,Customer_163,East,Product D,4,Very satisfied with the quality.
+2026-01-11 16:15:57.071728,Customer_162,West,Product D,1,The support team was very helpful and kind.
+2026-01-11 16:15:57.071728,Customer_143,East,Product B,2,"Not bad, could be better."
+2026-01-12 16:15:57.071728,Customer_64,North,Product C,5,"Amazing experience, will buy again."
+2026-01-13 16:15:57.071728,Customer_247,East,Product A,4,"I regret buying this, waste of money."
+2026-01-14 16:15:57.071728,Customer_164,North,Product B,4,"Delivery was on time, product is fine."
+2026-01-14 16:15:57.071728,Customer_274,North,Product C,1,"I regret buying this, waste of money."
+2026-01-18 16:15:57.071728,Customer_4,East,Product D,3,Very disappointed with the quality.
+2026-01-18 16:15:57.071728,Customer_237,North,Product A,2,Very disappointed with the quality.
+2026-01-19 16:15:57.071728,Customer_154,East,Product C,1,"Amazing experience, will buy again."
+2026-01-19 16:15:57.071728,Customer_90,West,Product D,2,"Amazing experience, will buy again."
+2026-01-20 16:15:57.071728,Customer_81,Central,Product A,4,"The product broke after one use, terrible."
+2026-01-20 16:15:57.071728,Customer_297,West,Product A,5,"The product broke after one use, terrible."
+2026-01-20 16:15:57.071728,Customer_120,Central,Product A,1,Excellent service and fast delivery.
+2026-01-20 16:15:57.071728,Customer_139,South,Product D,5,"The product is okay, nothing special."
+2026-01-20 16:15:57.071728,Customer_3,Central,Product A,5,"The product broke after one use, terrible."
+2026-01-21 16:15:57.071728,Customer_284,East,Product D,3,"The product is okay, nothing special."
+2026-01-22 16:15:57.071728,Customer_46,Central,Product B,5,Delivery was late and packaging was damaged.
+2026-01-22 16:15:57.071728,Customer_29,East,Product B,3,The support team was very helpful and kind.
+2026-01-22 16:15:57.071728,Customer_185,South,Product C,5,"Amazing experience, will buy again."
+2026-01-23 16:15:57.071728,Customer_218,East,Product C,4,Delivery was late and packaging was damaged.
+2026-01-23 16:15:57.071728,Customer_266,South,Product D,1,"Not bad, could be better."
+2026-01-23 16:15:57.071728,Customer_213,Central,Product B,2,Customer service was rude and unhelpful.
+2026-01-24 16:15:57.071728,Customer_19,West,Product A,4,"It works as described, average experience."
+2026-01-24 16:15:57.071728,Customer_30,East,Product C,3,Customer service was rude and unhelpful.
+2026-01-25 16:15:57.071728,Customer_221,North,Product C,1,"I regret buying this, waste of money."
+2026-01-26 16:15:57.071728,Customer_113,North,Product D,2,Customer service was rude and unhelpful.
+2026-01-26 16:15:57.071728,Customer_204,South,Product C,2,Very satisfied with the quality.
+2026-01-27 16:15:57.071728,Customer_72,East,Product C,3,"I regret buying this, waste of money."
+2026-01-27 16:15:57.071728,Customer_230,East,Product A,3,"It works as described, average experience."
+2026-01-27 16:15:57.071728,Customer_175,West,Product D,1,"I regret buying this, waste of money."
+2026-01-29 16:15:57.071728,Customer_53,East,Product D,3,Customer service was rude and unhelpful.
+2026-01-29 16:15:57.071728,Customer_276,Central,Product C,2,"It works as described, average experience."
+2026-01-29 16:15:57.071728,Customer_69,West,Product A,1,"I love this product, it works great!"
+2026-01-30 16:15:57.071728,Customer_108,Central,Product B,4,"The product is okay, nothing special."
+2026-01-30 16:15:57.071728,Customer_123,East,Product A,5,Delivery was late and packaging was damaged.
+2026-01-31 16:15:57.071728,Customer_75,North,Product C,2,Very disappointed with the quality.
+2026-01-31 16:15:57.071728,Customer_289,Central,Product B,1,"Delivery was on time, product is fine."
+2026-02-02 16:15:57.071728,Customer_275,South,Product C,2,The support team was very helpful and kind.
+2026-02-03 16:15:57.071728,Customer_281,Central,Product D,5,"I love this product, it works great!"
+2026-02-05 16:15:57.071728,Customer_283,North,Product A,3,Excellent service and fast delivery.
+2026-02-05 16:15:57.071728,Customer_234,East,Product D,4,The support team was very helpful and kind.
+2026-02-06 16:15:57.071728,Customer_202,Central,Product C,5,The support team was very helpful and kind.
+2026-02-06 16:15:57.071728,Customer_251,South,Product D,3,"I love this product, it works great!"
+2026-02-06 16:15:57.071728,Customer_184,East,Product B,2,"The product is okay, nothing special."
+2026-02-07 16:15:57.071728,Customer_54,Central,Product C,4,Very disappointed with the quality.
+2026-02-07 16:15:57.071728,Customer_182,South,Product A,5,The support team was very helpful and kind.
+2026-02-08 16:15:57.071728,Customer_20,South,Product B,5,Very disappointed with the quality.
+2026-02-08 16:15:57.071728,Customer_179,North,Product D,5,"Delivery was on time, product is fine."
+2026-02-09 16:15:57.071728,Customer_158,Central,Product A,3,Excellent service and fast delivery.
+2026-02-09 16:15:57.071728,Customer_114,North,Product D,3,Delivery was late and packaging was damaged.
+2026-02-11 16:15:57.071728,Customer_16,West,Product A,3,"Delivery was on time, product is fine."
+2026-02-14 16:15:57.071728,Customer_295,Central,Product C,4,"It works as described, average experience."
+2026-02-15 16:15:57.071728,Customer_10,West,Product D,4,"Not bad, could be better."
+2026-02-20 16:15:57.071728,Customer_288,Central,Product A,3,Excellent service and fast delivery.
+2026-02-21 16:15:57.071728,Customer_28,North,Product C,3,Very satisfied with the quality.
+2026-02-21 16:15:57.071728,Customer_294,South,Product C,3,"The product is okay, nothing special."
+2026-02-21 16:15:57.071728,Customer_56,North,Product D,3,"Amazing experience, will buy again."
+2026-02-22 16:15:57.071728,Customer_228,Central,Product D,3,"Amazing experience, will buy again."
+2026-02-24 16:15:57.071728,Customer_112,South,Product C,2,"The product broke after one use, terrible."
+2026-02-24 16:15:57.071728,Customer_33,Central,Product B,4,"The product broke after one use, terrible."
+2026-02-24 16:15:57.071728,Customer_131,West,Product B,1,"The product broke after one use, terrible."
+2026-02-25 16:15:57.071728,Customer_157,West,Product B,4,Excellent service and fast delivery.
+2026-02-25 16:15:57.071728,Customer_133,North,Product D,2,Customer service was rude and unhelpful.
+2026-02-27 16:15:57.071728,Customer_125,North,Product A,1,Very satisfied with the quality.
+2026-02-27 16:15:57.071728,Customer_130,North,Product C,3,"It works as described, average experience."
+2026-02-27 16:15:57.071728,Customer_78,South,Product C,2,"I love this product, it works great!"
+2026-02-28 16:15:57.071728,Customer_115,West,Product D,5,The support team was very helpful and kind.
+2026-03-01 16:15:57.071728,Customer_287,North,Product A,3,"I love this product, it works great!"
+2026-03-02 16:15:57.071728,Customer_128,North,Product B,3,Very disappointed with the quality.
+2026-03-03 16:15:57.071728,Customer_227,North,Product D,4,Delivery was late and packaging was damaged.
+2026-03-04 16:15:57.071728,Customer_265,South,Product C,1,Excellent service and fast delivery.
+2026-03-05 16:15:57.071728,Customer_241,North,Product C,2,"Delivery was on time, product is fine."
+2026-03-06 16:15:57.071728,Customer_259,Central,Product D,2,"Delivery was on time, product is fine."
+2026-03-07 16:15:57.071728,Customer_269,East,Product A,5,"I love this product, it works great!"
+2026-03-10 16:15:57.071728,Customer_136,East,Product C,5,"Not bad, could be better."
+2026-03-12 16:15:57.071728,Customer_192,West,Product C,5,"I regret buying this, waste of money."
+2026-03-13 16:15:57.071728,Customer_268,West,Product B,5,"The product broke after one use, terrible."
+2026-03-18 16:15:57.071728,Customer_244,Central,Product A,2,Excellent service and fast delivery.
+2026-03-18 16:15:57.071728,Customer_84,North,Product A,3,"The product is okay, nothing special."
+2026-03-18 16:15:57.071728,Customer_239,North,Product D,3,"I regret buying this, waste of money."
+2026-03-19 16:15:57.071728,Customer_191,Central,Product B,3,"Delivery was on time, product is fine."
+2026-03-19 16:15:57.071728,Customer_39,Central,Product D,3,"I love this product, it works great!"
+2026-03-20 16:15:57.071728,Customer_129,West,Product C,2,The support team was very helpful and kind.
+2026-03-21 16:15:57.071728,Customer_98,South,Product A,5,"Delivery was on time, product is fine."
+2026-03-23 16:15:57.071728,Customer_25,South,Product A,5,"I regret buying this, waste of money."
+2026-03-24 16:15:57.071728,Customer_243,North,Product A,5,"It works as described, average experience."
+2026-03-26 16:15:57.071728,Customer_122,West,Product D,5,"Delivery was on time, product is fine."
+2026-03-26 16:15:57.071728,Customer_2,North,Product C,2,"I regret buying this, waste of money."
+2026-03-28 16:15:57.071728,Customer_254,Central,Product B,2,"Not bad, could be better."
+2026-03-28 16:15:57.071728,Customer_236,East,Product D,4,"The product is okay, nothing special."
+2026-03-28 16:15:57.071728,Customer_155,East,Product B,5,"It works as described, average experience."
+2026-03-29 16:15:57.071728,Customer_107,North,Product C,3,"Amazing experience, will buy again."
+2026-03-29 16:15:57.071728,Customer_161,North,Product C,4,"I love this product, it works great!"
+2026-03-30 16:15:57.071728,Customer_79,South,Product D,3,Delivery was late and packaging was damaged.
+2026-03-30 16:15:57.071728,Customer_121,West,Product D,1,"Amazing experience, will buy again."
+2026-03-31 16:15:57.071728,Customer_282,North,Product B,4,The support team was very helpful and kind.
+2026-04-02 16:15:57.071728,Customer_48,North,Product D,5,The support team was very helpful and kind.
+2026-04-02 16:15:57.071728,Customer_256,West,Product A,1,"I regret buying this, waste of money."
+2026-04-03 16:15:57.071728,Customer_59,West,Product B,3,Customer service was rude and unhelpful.
+2026-04-03 16:15:57.071728,Customer_97,North,Product C,2,Very disappointed with the quality.
+2026-04-04 16:15:57.071728,Customer_190,Central,Product A,3,The support team was very helpful and kind.
+2026-04-04 16:15:57.071728,Customer_74,Central,Product C,1,"The product broke after one use, terrible."
+2026-04-07 16:15:57.071728,Customer_183,West,Product A,3,Delivery was late and packaging was damaged.
+2026-04-08 16:15:57.071728,Customer_174,West,Product D,3,Delivery was late and packaging was damaged.
+2026-04-08 16:15:57.071728,Customer_7,East,Product C,1,"The product broke after one use, terrible."
+2026-04-08 16:15:57.071728,Customer_203,Central,Product D,1,The support team was very helpful and kind.
+2026-04-09 16:15:57.071728,Customer_42,West,Product D,5,"I regret buying this, waste of money."
+2026-04-09 16:15:57.071728,Customer_85,North,Product D,4,"I love this product, it works great!"
+2026-04-10 16:15:57.071728,Customer_222,North,Product A,2,"Not bad, could be better."
+2026-04-10 16:15:57.071728,Customer_109,North,Product B,3,Customer service was rude and unhelpful.
+2026-04-14 16:15:57.071728,Customer_176,Central,Product B,4,"I regret buying this, waste of money."
+2026-04-14 16:15:57.071728,Customer_235,North,Product D,1,Excellent service and fast delivery.
+2026-04-14 16:15:57.071728,Customer_14,South,Product C,3,Excellent service and fast delivery.
+2026-04-14 16:15:57.071728,Customer_211,West,Product D,2,"Delivery was on time, product is fine."
+2026-04-15 16:15:57.071728,Customer_173,East,Product C,3,"The product is okay, nothing special."
+2026-04-15 16:15:57.071728,Customer_224,South,Product C,5,"Amazing experience, will buy again."
+2026-04-19 16:15:57.071728,Customer_12,North,Product D,2,"It works as described, average experience."
+2026-04-20 16:15:57.071728,Customer_214,Central,Product D,1,"Not bad, could be better."
+2026-04-22 16:15:57.071728,Customer_58,North,Product A,5,"Delivery was on time, product is fine."
+2026-04-22 16:15:57.071728,Customer_61,Central,Product C,3,Delivery was late and packaging was damaged.
+2026-04-26 16:15:57.071728,Customer_246,East,Product A,3,"I regret buying this, waste of money."
+2026-04-26 16:15:57.071728,Customer_233,South,Product A,4,"Delivery was on time, product is fine."
+2026-04-26 16:15:57.071728,Customer_41,South,Product D,3,"The product broke after one use, terrible."
+2026-04-26 16:15:57.071728,Customer_50,East,Product B,1,"Amazing experience, will buy again."
+2026-04-27 16:15:57.071728,Customer_13,South,Product B,5,Delivery was late and packaging was damaged.
+2026-04-28 16:15:57.071728,Customer_127,Central,Product A,2,Excellent service and fast delivery.
+2026-04-28 16:15:57.071728,Customer_206,East,Product C,2,The support team was very helpful and kind.
+2026-04-29 16:15:57.071728,Customer_88,Central,Product B,2,Excellent service and fast delivery.
+2026-04-30 16:15:57.071728,Customer_172,East,Product A,4,"It works as described, average experience."
+2026-05-01 16:15:57.071728,Customer_1,Central,Product D,1,"It works as described, average experience."
+2026-05-02 16:15:57.071728,Customer_49,North,Product D,2,"I regret buying this, waste of money."
+2026-05-02 16:15:57.071728,Customer_209,South,Product D,1,"Amazing experience, will buy again."
+2026-05-03 16:15:57.071728,Customer_106,East,Product A,5,"Amazing experience, will buy again."
+2026-05-03 16:15:57.071728,Customer_24,Central,Product C,2,"The product is okay, nothing special."
+2026-05-03 16:15:57.071728,Customer_277,East,Product C,1,"The product is okay, nothing special."
+2026-05-03 16:15:57.071728,Customer_111,South,Product C,4,The support team was very helpful and kind.
+2026-05-04 16:15:57.071728,Customer_159,North,Product C,2,"The product is okay, nothing special."
+2026-05-04 16:15:57.071728,Customer_15,West,Product C,3,Excellent service and fast delivery.
+2026-05-05 16:15:57.071728,Customer_248,East,Product D,4,"The product broke after one use, terrible."
+2026-05-05 16:15:57.071728,Customer_105,East,Product C,5,Very disappointed with the quality.
+2026-05-05 16:15:57.071728,Customer_212,Central,Product C,1,"Amazing experience, will buy again."
+2026-05-07 16:15:57.071728,Customer_134,East,Product A,1,"Delivery was on time, product is fine."
+2026-05-07 16:15:57.071728,Customer_70,South,Product D,2,"The product is okay, nothing special."
+2026-05-07 16:15:57.071728,Customer_260,East,Product D,3,Customer service was rude and unhelpful.
+2026-05-08 16:15:57.071728,Customer_104,East,Product A,1,"Not bad, could be better."
+2026-05-10 16:15:57.071728,Customer_91,North,Product D,3,Delivery was late and packaging was damaged.
+2026-05-10 16:15:57.071728,Customer_102,South,Product A,3,Very disappointed with the quality.
+2026-05-11 16:15:57.071728,Customer_290,Central,Product A,3,"Amazing experience, will buy again."
+2026-05-11 16:15:57.071728,Customer_226,Central,Product C,5,Very disappointed with the quality.
+2026-05-13 16:15:57.071728,Customer_165,Central,Product D,2,"I love this product, it works great!"
+2026-05-15 16:15:57.071728,Customer_148,East,Product B,4,"The product broke after one use, terrible."
+2026-05-15 16:15:57.071728,Customer_27,North,Product B,2,"I regret buying this, waste of money."
+2026-05-17 16:15:57.071728,Customer_37,South,Product B,1,Excellent service and fast delivery.
+2026-05-18 16:15:57.071728,Customer_83,South,Product D,4,Customer service was rude and unhelpful.
+2026-05-18 16:15:57.071728,Customer_89,North,Product D,4,"Not bad, could be better."
+2026-05-18 16:15:57.071728,Customer_100,Central,Product C,5,"The product broke after one use, terrible."
+2026-05-20 16:15:57.071728,Customer_18,Central,Product A,2,Customer service was rude and unhelpful.
+2026-05-21 16:15:57.071728,Customer_92,South,Product D,1,"It works as described, average experience."
+2026-05-23 16:15:57.071728,Customer_296,East,Product C,4,"Delivery was on time, product is fine."
+2026-05-25 16:15:57.071728,Customer_145,West,Product B,1,"I regret buying this, waste of money."
+2026-05-25 16:15:57.071728,Customer_150,Central,Product D,3,"I love this product, it works great!"
+2026-05-25 16:15:57.071728,Customer_231,North,Product A,4,Very satisfied with the quality.
+2026-05-25 16:15:57.071728,Customer_124,East,Product D,5,Delivery was late and packaging was damaged.
+2026-05-26 16:15:57.071728,Customer_36,Central,Product A,1,"I love this product, it works great!"
+2026-05-26 16:15:57.071728,Customer_5,North,Product C,4,Delivery was late and packaging was damaged.
+2026-06-04 16:15:57.071728,Customer_34,East,Product A,3,"Not bad, could be better."
+2026-06-05 16:15:57.071728,Customer_47,Central,Product C,1,"It works as described, average experience."
+2026-06-07 16:15:57.071728,Customer_94,West,Product A,3,"I regret buying this, waste of money."
+2026-06-08 16:15:57.071728,Customer_219,East,Product D,3,"It works as described, average experience."
+2026-06-08 16:15:57.071728,Customer_178,West,Product B,3,"Delivery was on time, product is fine."
+2026-06-09 16:15:57.071728,Customer_66,East,Product C,4,"I love this product, it works great!"
+2026-06-10 16:15:57.071728,Customer_201,West,Product B,3,"Amazing experience, will buy again."
+2026-06-13 16:15:57.071728,Customer_152,East,Product A,3,"It works as described, average experience."
+2026-06-14 16:15:57.071728,Customer_60,Central,Product A,1,"Amazing experience, will buy again."
+2026-06-15 16:15:57.071728,Customer_263,North,Product D,3,"I love this product, it works great!"
+2026-06-16 16:15:57.071728,Customer_23,Central,Product B,1,Very disappointed with the quality.
+2026-06-19 16:15:57.071728,Customer_285,Central,Product C,2,Delivery was late and packaging was damaged.
+2026-06-19 16:15:57.071728,Customer_180,South,Product D,5,"I regret buying this, waste of money."
+2026-06-20 16:15:57.071728,Customer_80,North,Product C,3,"The product broke after one use, terrible."
+2026-06-24 16:15:57.071728,Customer_292,South,Product C,1,"I love this product, it works great!"
+2026-06-25 16:15:57.071728,Customer_194,South,Product B,2,"Amazing experience, will buy again."
+2026-06-25 16:15:57.071728,Customer_273,North,Product A,1,Very satisfied with the quality.
+2026-06-26 16:15:57.071728,Customer_199,East,Product B,3,The support team was very helpful and kind.
+2026-06-28 16:15:57.071728,Customer_63,Central,Product A,2,Customer service was rude and unhelpful.
+2026-06-28 16:15:57.071728,Customer_207,South,Product A,5,Delivery was late and packaging was damaged.
+2026-06-29 16:15:57.071728,Customer_45,South,Product B,1,"I regret buying this, waste of money."
+2026-06-30 16:15:57.071728,Customer_11,West,Product B,1,"The product broke after one use, terrible."
+2026-07-02 16:15:57.071728,Customer_140,Central,Product D,4,"Delivery was on time, product is fine."
+2026-07-04 16:15:57.071728,Customer_264,Central,Product D,3,Customer service was rude and unhelpful.
+2026-07-05 16:15:57.071728,Customer_144,East,Product D,4,Very satisfied with the quality.
+2026-07-06 16:15:57.071728,Customer_160,West,Product A,4,Excellent service and fast delivery.
