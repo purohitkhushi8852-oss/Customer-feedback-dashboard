@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Customer Feedback Dashboard</title>
+    <meta name="description" content="Interactive customer feedback dashboard for GitHub Pages" />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <h1>Customer Feedback Dashboard</h1>
+        <p class="subtitle">Explore feedback trends from a CSV file or the built-in sample data.</p>
+
+        <label class="upload-card" for="csvFile">
+          <span>Upload CSV</span>
+          <input id="csvFile" type="file" accept=".csv" />
+        </label>
+
+        <section class="panel">
+          <h2>Filters</h2>
+          <label class="field">
+            <span>Region</span>
+            <select id="regionFilter" multiple></select>
+          </label>
+
+          <div class="field">
+            <span>Rating range</span>
+            <div class="range-group">
+              <input id="ratingMin" type="range" min="1" max="5" value="1" />
+              <input id="ratingMax" type="range" min="1" max="5" value="5" />
+            </div>
+            <div class="range-labels">
+              <span id="ratingMinLabel">1</span>
+              <span id="ratingMaxLabel">5</span>
+            </div>
+          </div>
+
+          <div class="field">
+            <span>Date range</span>
+            <div class="date-group">
+              <input id="startDate" type="date" />
+              <input id="endDate" type="date" />
+            </div>
+          </div>
+
+          <div class="field">
+            <span>Sentiment</span>
+            <div id="sentimentFilters" class="checkbox-group"></div>
+          </div>
+        </section>
+      </aside>
+
+      <main class="content">
+        <header class="hero">
+          <div>
+            <p class="eyebrow">GitHub Pages ready</p>
+            <h2>Customer feedback insights, instantly in the browser</h2>
+            <p class="hero-copy">
+              Upload your own CSV or use the bundled sample data to inspect ratings, sentiment, and monthly trends.
+            </p>
+          </div>
+          <div class="status-pill" id="statusText">Loading sample data…</div>
+        </header>
+
+        <section class="metrics-grid" id="metricsGrid"></section>
+
+        <section class="chart-grid">
+          <article class="card chart-card">
+            <h3>Rating distribution</h3>
+            <canvas id="ratingChart"></canvas>
+          </article>
+          <article class="card chart-card">
+            <h3>Rating share</h3>
+            <canvas id="ratingPieChart"></canvas>
+          </article>
+          <article class="card chart-card">
+            <h3>Average rating by region</h3>
+            <canvas id="regionChart"></canvas>
+          </article>
+          <article class="card chart-card">
+            <h3>Sentiment breakdown</h3>
+            <canvas id="sentimentChart"></canvas>
+          </article>
+          <article class="card chart-card wide">
+            <h3>Monthly trend</h3>
+            <canvas id="monthlyChart"></canvas>
+          </article>
+        </section>
+
+        <section class="card table-card">
+          <div class="table-header">
+            <h3>Filtered feedback</h3>
+            <button id="downloadCsv" type="button">Download CSV</button>
+          </div>
+          <div class="table-wrapper">
+            <table id="feedbackTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

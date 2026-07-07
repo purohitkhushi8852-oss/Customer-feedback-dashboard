@@ -1,76 +1,40 @@
 # Customer Feedback Analysis Dashboard
 
+This project now runs as a static site that can be deployed directly to GitHub Pages.
+
 ## Project Structure
 ```
-feedback_dashboard/
-├── app.py                     # Main Streamlit dashboard
-├── requirements.txt           # Python dependencies
-├── generate_sample_csv.py     # Creates a sample CSV for testing
+customer_feedback_dashboard/
+├── index.html                # Main page for the dashboard
+├── styles.css                # Dashboard styling
+├── app.js                    # Client-side dashboard logic
 ├── data/
-│   └── sample_feedback.csv    # Ready-to-use sample dataset
+│   └── sample_feedback.csv   # Ready-to-use sample dataset
+├── .github/workflows/deploy.yml
 └── README.md
 ```
 
 ## CSV Format Expected
-Columns (auto-detected, case-insensitive, also manually re-mappable in the sidebar):
-- `date` (or created_at / review_date / timestamp)
-- `rating` (1–5, or score/stars)
-- `region` (or location/state/city)
-- `feedback_text` (or review/comment/feedback/text)
+The dashboard expects a CSV with columns such as:
+- `date` (or `created_at`, `review_date`, `timestamp`)
+- `rating` (or `score`, `stars`)
+- `region` (or `location`, `state`, `city`)
+- `feedback_text` (or `review`, `review_text`, `comment`, `feedback`, `text`)
 
-## Steps to Run in VS Code
+## Deploy to GitHub Pages
+1. Push this repository to GitHub.
+2. Open the repository settings.
+3. Go to Pages.
+4. Choose GitHub Actions as the source.
+5. The workflow in [.github/workflows/deploy.yml](.github/workflows/deploy.yml) will build and publish the site automatically.
 
-1. **Open the folder in VS Code**
-   - `File > Open Folder` → select `feedback_dashboard`
-
-2. **Create a virtual environment** (open VS Code terminal: `` Ctrl+` ``)
-   ```bash
-   python -m venv venv
-   ```
-
-3. **Activate the virtual environment**
-   - Windows:
-     ```bash
-     venv\Scripts\activate
-     ```
-   - Mac/Linux:
-     ```bash
-     source venv/bin/activate
-     ```
-
-4. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. **(One-time) Download TextBlob corpora** — needed for sentiment analysis
-   ```bash
-   python -m textblob.download_corpora
-   ```
-
-6. **(Optional) Generate the sample CSV**
-   ```bash
-   python generate_sample_csv.py
-   ```
-   This creates `data/sample_feedback.csv`.
-
-7. **Run the dashboard**
-   ```bash
-   streamlit run app.py
-   ```
-
-8. **View in browser**
-   - VS Code will show a clickable link, or open manually:
-     ```
-     http://localhost:8501
-     ```
-
-9. **Using the dashboard**
-   - Upload your own CSV via the sidebar, **or** check "Use sample demo data."
-   - Use sidebar filters: Region, Rating range, Date range, Sentiment.
-   - Explore tabs: Rating Distribution, Sentiment Analysis, Monthly Trends, Raw Data.
-   - Download filtered results as CSV from the "Raw Data" tab.
+## Run Locally
+You can preview the site locally with any static file server:
+```bash
+python -m http.server 8000
+```
+Then open http://127.0.0.1:8000/.
 
 ## Notes
-- If port 8501 is busy: `streamlit run app.py --server.port 8502`
-- To stop the server: `Ctrl + C` in the terminal.
+- The dashboard works entirely in the browser, so no Python backend is required for GitHub Pages.
+- Upload your own CSV file from the sidebar to analyze it in the same interface.
